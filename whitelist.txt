@@ -314,3 +314,469 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+
+@@||click.sender.yandex.ru^$important
+# backit
+@@||prf.hn^$important
+# Microsoft Authenticator
+@@||app.adjust.com^$important
+# Added from Query Log
+@@||firebase-settings.crashlytics.com^$important
+# In order for users on your network to access Google Drive and Google Docs editors this domain must be whitelisted - https://support.google.com/a/answer/2589954?hl=en  - qjz9zk
+@@||0.client-channel.google.com^$important
+# It is actually a legitimate Microsoft owned domain and used as a short link for OneDrive documents. - qjz9zk
+@@||1drv.com^$important
+# This domain is a part of The pool.ntp.org project which is a big virtual cluster of timeservers providing reliable time. This domain is used in Android devices - qjz9zk
+@@||2.android.pool.ntp.org^$important
+# This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN). - qjz9zk
+@@||akamaihd.net^$important
+# This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN). - qjz9zk
+@@||akamaitechnologies.com^$important
+# This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN). - qjz9zk
+@@||akamaized.net^$important
+# Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs. This domain is used to serve files and other static resources which are hosted on Amazon AWS - qjz9zk
+@@||amazonaws.com^$important
+# Google Play Store and few devices (especially Android One devices) depends on this domain for system updates. - qjz9zk
+@@||android.clients.google.com^$important
+# It is used to get your public IP address programmatically. ipify is completely opensource. - qjz9zk
+@@||api.ipify.org^$important
+# Used by ted.com streams. - qjz9zk
+@@||app-api.ted.com^$important
+# Used to deliver contents on video straming apps on hulu etc. - qjz9zk
+@@||api.rlje.net^$important
+# Used to sign in t your Apple account. - qjz9zk
+@@||appleid.apple.com^$important
+# Used to make group calls, group chats etc. on Skype. - qjz9zk
+@@||apps.skype.com^$important
+# Used to backup device settings and app data. - qjz9zk
+@@||appsbackup-pa.clients6.google.com^$important
+# Used to backup device settings and app data. - qjz9zk
+@@||appsbackup-pa.googleapis.com^$important
+# Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
+@@||apt.sonarr.tv^$important
+# Owned by Microsoft. Used to deliver files such as Windows updates and other services. - qjz9zk
+@@||aspnetcdn.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||attestation.xboxlive.com^$important
+# Used by Apple Photos. - qjz9zk
+@@||ax.phobos.apple.com.edgesuite.net^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||brightcove.net^$important
+# Used to deliver fonts. - qjz9zk
+@@||c.s-microsoft.com^$important
+# Used to deliver static files over CloudFlare CDN. - qjz9zk
+@@||cdn.cloudflare.net^$important
+# Embedly is used to embed videos, images and rich media from 300+ providers with just the URL. - qjz9zk
+@@||cdn.embedly.com^$important
+# optimizely.com is a progressive delivery and experimentation software for other companies. Often used as a video delivery system. - qjz9zk
+@@||cdn.optimizely.com^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||cdn.vidible.tv^$important
+# optimizely.com is a progressive delivery and experimentation software for other companies. Often used as a video delivery system. - qjz9zk
+@@||cdn2.optimizely.com^$important
+# optimizely.com is a progressive delivery and experimentation software for other companies. Often used as a video delivery system. - qjz9zk
+@@||cdn3.optimizely.com^$important
+# Used to deliver static files over CloudFlare CDN. - qjz9zk
+@@||cdnjs.cloudflare.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||cert.mgt.xboxlive.com^$important
+# Owned by Microsoft. Used in Windows Store. - qjz9zk
+@@||clientconfig.passport.net^$important
+# Used in Google Maps and other Google services. - qjz9zk
+@@||clients1.google.com^$important
+# Used in Google Maps and other Google services. - qjz9zk
+@@||clients2.google.com^$important
+# Used in Google Maps and other Google services. - qjz9zk
+@@||clients3.google.com^$important
+# Used in Google Maps and other Google services. - qjz9zk
+@@||clients4.google.com^$important
+# Used in Google Maps and other Google services. - qjz9zk
+@@||clients5.google.com^$important
+# Used in Google Maps and other Google services. - qjz9zk
+@@||clients6.google.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||cpms.spop10.ams.plex.bz^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||cpms35.spop10.ams.plex.bz^$important
+# Google Custom Search. Often used as a search functionality inside a website. https://programmablesearchengine.google.com/about/ - qjz9zk
+@@||cse.google.com^$important
+# Owned by Microsoft. Used to deliver Windows updates. - qjz9zk
+@@||ctldl.windowsupdate.com^$important
+# Conviva offers online video optimization and online video analytics. But it is neccessary to whitelist in order to watch many online contents which uses Conviva. - qjz9zk
+@@||cws.conviva.com^$important
+# Conviva offers online video optimization and online video analytics. But it is neccessary to whitelist in order to watch many online contents which uses Conviva. - qjz9zk
+@@||livepassdl.conviva.com^$important
+# Conviva offers online video optimization and online video analytics. But it is neccessary to whitelist in order to watch many online contents which uses Conviva. - qjz9zk
+@@||zee.cws.conviva.com^$important
+# Conviva offers online video optimization and online video analytics. But it is neccessary to whitelist in order to watch many online contents which uses Conviva. - qjz9zk
+@@||pings.conviva.com^$important
+# Used for checking nVidia driver updates. - qjz9zk
+@@||gfwsl.geforce.com^$important
+# Used to deliver system updates to Moto phones. - qjz9zk
+@@||appspot-preview.l.google.com^$important
+# Domain owned by Amazon. Used to deliver media such as videos in entertainment and news sites. - qjz9zk
+@@||d2c8v52ll5s99u.cloudfront.net^$important
+# Domain owned by Amazon. Used to deliver media such as videos in entertainment and news sites. - qjz9zk
+@@||d2gatte9o95jao.cloudfront.net^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||dashboard.plex.tv^$important
+# Used to remotely control your Raspberry-Pi. - qjz9zk
+@@||dataplicity.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||def-vef.xboxlive.com^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||delivery.vidible.tv^$important
+# Owned by Microsoft. Used by Bing Maps to get information about various places. For example, this domain should be whitelisted in order to select a store location on costco.com.  - qjz9zk
+@@||dev.virtualearth.net^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||device.auth.xboxlive.com^$important
+# To display Ratings &amp;amp;amp; Reviews or Questions &amp;amp;amp; Answers in online stores. - qjz9zk
+@@||display.ugc.bazaarvoice.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||displaycatalog.mp.microsoft.com^$important
+# Used to deliver updates to Microsoft products. - qjz9zk
+@@||dl.delivery.mp.microsoft.com^$important
+# Used to download files from Dropbox - qjz9zk
+@@||dl.dropbox.com^$important
+# Used to download files from Dropbox - qjz9zk
+@@||dl.dropboxusercontent.com^$important
+# Owned by Microsoft. Used to check whether the internet connection is up or not in Windows systems.  - qjz9zk
+@@||dns.msftncsi.com^$important
+# Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
+@@||download.sonarr.tv^$important
+# Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk
+@@||drift.com^$important
+# Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk
+@@||driftt.com^$important
+# No-IP offers DNS services, email, network monitoring and SSL certificates - qjz9zk
+@@||dynupdate.no-ip.com^$important
+# Owned by Microsoft. Used by Bing Maps to get information about various places. For example, this domain should be whitelisted in order to select a store location on costco.com. - qjz9zk
+@@||ecn.dev.virtualearth.net^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||edge.api.brightcove.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||eds.xboxlive.com^$important
+# Owned by Google. Used to deliver Google Fonts. - qjz9zk
+@@||fonts.gstatic.com^$important
+# Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
+@@||forums.sonarr.tv^$important
+# Used by Microsoft for their Outlook.com and OneDrive products. Backup bitlocker recovery key to Microsoft account. - qjz9zk
+@@||g.live.com^$important
+# Enables connections to Windows Update. - qjz9zk
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+# Owned by Google. Used to deliver static files over the internet. - qjz9zk
+@@||geo3.ggpht.com^$important
+# Gifs hosting platform. - qjz9zk
+@@||giphy.com^$important
+# GitHub provides hosting for software development and version control using Git. - qjz9zk
+@@||github.com^$important
+# Owned by GitHub. Used for GitHub pages. - qjz9zk
+@@||github.io^$important
+# An important domain used to provide APIs to various Google services. - qjz9zk
+@@||googleapis.com^$important
+# Owned by Automattic. Gravatar is a service for providing globally unique avatars - qjz9zk
+@@||gravatar.com^$important
+# Owned by Google. gstatic.com is a cookieless domain to deliver static content for Google. - qjz9zk
+@@||gstatic.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||help.ui.xboxlive.com^$important
+# Used by ted.com streams. - qjz9zk
+@@||hls.ted.com^$important
+# Owned by Google. Used to deliver thumbails in YouTube. - qjz9zk
+@@||i.ytimg.com^$important
+# Owned by Google. Used to deliver thumbails in YouTube. - qjz9zk
+@@||i1.ytimg.com^$important
+# GoDaddy webmail buttons - qjz9zk
+@@||imagesak.secureserver.net^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||img.vidible.tv^$important
+# Image placeholders often used during web page loading. - qjz9zk
+@@||imgix.net^$important
+# Used to deliver images on xkcd.com. - qjz9zk
+@@||imgs.xkcd.com^$important
+# An important domain used to provide APIs to various Google services. - qjz9zk
+@@||instantmessaging-pa.googleapis.com^$important
+# Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk
+@@||intercom.io^$important
+# jQuery is a JavaScript library. Also used to deliver the files over CDN. - qjz9zk
+@@||jquery.com^$important
+#  jsDelivr is a free public CDN for open-source projects. It can serve web files directly from the npm registry and GitHub repositories without any configuration. - qjz9zk
+@@||jsdelivr.net^$important
+# Owned by Malwarebytes. It is a licensing system used to verify the Malwarebytes software license. - qjz9zk
+@@||keystone.mwbsys.com^$important
+# Used by last.fm to deliver images. - qjz9zk
+@@||lastfm-img2.akamaized.net^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||licensing.xboxlive.com^$important
+# Owned by Microsoft. It is a personal information manager web app from Microsoft consisting of webmail, calendaring, contacts, and tasks services. - qjz9zk
+@@||live.com^$important
+# Owned by Microsoft. The following endpoint is used to authenticate a device.  - qjz9zk
+@@||login.live.com^$important
+# Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+@@||login.microsoftonline.com^$important
+# Used for YouTube live streams. - qjz9zk
+@@||manifest.googlevideo.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||meta-db-worker02.pop.ric.plex.bz^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||meta.plex.bz^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||meta.plex.tv^$important
+# Owned by Microsoft. This domain is checked by the operating systems when connecting via wifi, and if they do not get the response they expect, they may try to open a wifi login page or similar as they believe they are located behind a captive portal. - qjz9zk
+@@||microsoftonline.com^$important
+# Owned by Microsoft. This domain is checked by the operating systems when connecting via wifi, and if they do not get the response they expect, they may try to open a wifi login page or similar as they believe they are located behind a captive portal. - qjz9zk
+@@||msftncsi.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||my.plexapp.com^$important
+# Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+@@||nexusrules.officeapps.live.com^$important
+# Used for NPR morning news and podcasts. - qjz9zk
+@@||npr-news.streaming.adswizz.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||nine.plugins.plexapp.com^$important
+# No-IP offers DNS services, email, network monitoring and SSL certificates. - qjz9zk
+@@||no-ip.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||node.plexapp.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||notify.xboxlive.com^$important
+# Dropbox nameserver. Used to download files from Dropbox - qjz9zk
+@@||ns1.dropbox.com^$important
+# Dropbox nameserver. Used to download files from Dropbox - qjz9zk
+@@||ns2.dropbox.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||o1.email.plex.tv^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||o2.sg0.plex.tv^$important
+# iOS developers are able to distribute apps outside of the App Store using an Enterprise provisioning profile. Apple can revoke these kinds of apps by using this domain. - qjz9zk
+@@||ocsp.apple.com^$important
+# Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+@@||office.com^$important
+# Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+@@||office.net^$important
+# Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+@@||office365.com^$important
+# Used by Microsoft Office apps. - qjz9zk
+@@||officeclient.microsoft.com^$important
+# CBS All Access on straming platforms. - qjz9zk
+@@||om.cbsi.com^$important
+# Owned by Microsoft. Used to sign in to One Drive. - qjz9zk
+@@||onedrive.live.com^$important
+# Owned by Microsoft. Used for Outlook email. - qjz9zk
+@@||outlook.live.com^$important
+# Owned by Microsoft. Used for Outlook email.ent - qjz9zk
+@@||outlook.office365.com^$important
+# Placehold.it, Image placeholders often used during web page loading. - qjz9zk
+@@||placehold.it^$important
+# Placehold.it, Image placeholders often used during web page loading. - qjz9zk
+@@||placeholdit.imgix.net^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||players.brightcove.net^$important
+# Used to make group calls, group chats etc. on Skype. - qjz9zk
+@@||pricelist.skype.com^$important
+# Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+@@||products.office.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||proxy.plex.bz^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||proxy.plex.tv^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||proxy02.pop.ord.plex.bz^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||pubsub.plex.bz^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||pubsub.plex.tv^$important
+# Owned by GitHub. It is used to serve unprocessed versions of files stored in GitHub repositories.  - qjz9zk
+@@||raw.githubusercontent.com^$important
+# Used by YouTube to play embedded videos on third-party websites. - qjz9zk
+@@||redirector.googlevideo.com^$important
+# Cloudinary provides a cloud-based image and video management services. It enables users to upload, store, manage, manipulate, and deliver images and video for websites and apps. - qjz9zk
+@@||res.cloudinary.com^$important
+# Owned by Microsoft. It is a personal information manager web app from Microsoft consisting of webmail, calendaring, contacts, and tasks services. - qjz9zk
+@@||s.gateway.messenger.live.com^$important
+# Images are loaded on marketwatch.com using this domain. - qjz9zk
+@@||s.marketwatch.com^$important
+# Used to record YouTube watch history. Blocking this domain will pause your watch history on YouTube. - qjz9zk
+@@||s.youtube.com^$important
+# Owned by Google. Used to deliver thumbails in YouTube. - qjz9zk
+@@||s.ytimg.com^$important
+# Owned by WordPress. Used to feliver static files and media for websites which are hosted on wordpress.com platform. - qjz9zk
+@@||s1.wp.com^$important
+# Used to record YouTube watch history. Blocking this domain will pause your watch history on YouTube. - qjz9zk
+@@||s2.youtube.com^$important
+# Used to deliver files that are stored in Amazon AWS S3 storage buckets. - qjz9zk
+@@||s3.amazonaws.com^$important
+# Owned by Symantec. These are Symantec Certificate Revocation List servers and are used by a number of companies including Microsoft. - qjz9zk
+@@||sa.symcb.com^$important
+# Used to perform online payments. - qjz9zk
+@@||secure.avangate.com^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||secure.brightcove.com^$important
+# Used by Survey Monkey to deliver surveys. - qjz9zk
+@@||secure.surveymonkey.com^$important
+# Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
+@@||services.sonarr.tv^$important
+# Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
+@@||skyhook.sonarr.tv^$important
+# Spotify on Web and desktop player does not work if this domain is blocked. - qjz9zk
+@@||spclient.wg.spotify.com^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||ssl.p.jwpcdn.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||staging.plex.tv^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||status.plex.tv^$important
+# Owned by Twitter. Used as a URL shortner while sharing Twitter posts. - qjz9zk
+@@||t.co^$important
+# Owned by Microsoft. Used by Bing Maps to get information about various places. For example, this domain should be whitelisted in order to select a store location on costco.com. - qjz9zk
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
+# Owned by Microsoft. Used by Bing Maps to get information about various places. For example, this domain should be whitelisted in order to select a store location on costco.com. - qjz9zk
+@@||t0.ssl.ak.tiles.virtualearth.net^$important
+# Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk
+@@||tawk.to^$important
+# Used by ted.com streams. - qjz9zk
+@@||tedcdn.com^$important
+# Metadata for movies - qjz9zk
+@@||themoviedb.com^$important
+# Metadata for TV series - qjz9zk
+@@||thetvdb.com^$important
+# Popular URL shortner - qjz9zk
+@@||tinyurl.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||title.auth.xboxlive.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||title.mgt.xboxlive.com^$important
+# Used in Pocketcasts app to serve and download podcasts. - qjz9zk
+@@||traffic.libsyn.com^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||tvdb2.plex.tv^$important
+# Plex is a client&amp;amp;ndash;server media player system plus an ancillary software suite. - qjz9zk
+@@||tvthemes.plexapp.com^$important
+# Owned by Twitter. Used to deliver media on Twitter. - qjz9zk
+@@||twimg.com^$important
+# Used to make group calls, group chats etc. on Skype. - qjz9zk
+@@||ui.skype.com^$important
+# Used to record YouTube watch history. Blocking this domain will pause your watch history on YouTube. - qjz9zk
+@@||video-stats.l.google.com^$important
+# Video delivery systems, popular in entertainment and news sites. - qjz9zk
+@@||videos.vidible.tv^$important
+# Owned by Akamai Technologies. Used as a sign in method in various apps and sites. - qjz9zk
+@@||widget-cdn.rpxnow.com^$important
+# It gives full IPv6 connectivity for IPv6-capable hosts that are on the IPv4 Internet but have no native connection to an IPv6 network.  - qjz9zk
+@@||win10.ipv6.microsoft.com^$important
+# Owned by WordPress.com hosting. - qjz9zk
+@@||wp.com^$important
+# Owned by last.fm. Used to get track metadata using last.fm API. - qjz9zk
+@@||ws.audioscrobbler.com^$important
+# Used to remotely control your Raspberry-Pi. - qjz9zk
+@@||www.dataplicity.com^$important
+# An important domain used to provide APIs to various Google services.  - qjz9zk
+@@||www.googleapis.com^$important
+# Owned by Microsoft. This domain is checked by the operating systems when connecting via wifi, and if they do not get the response they expect, they may try to open a wifi login page or similar as they believe they are located behind a captive portal. - qjz9zk
+@@||www.msftncsi.com^$important
+# No-IP offers DNS services, email, network monitoring and SSL certificates. - qjz9zk
+@@||www.no-ip.com^$important
+# Owned by Google. YouTube launched a new feature on the site recently that it called Privacy-Enhanced Mode. This domain is used to embed the videos on third-party sites with less trackers. - qjz9zk
+@@||www.youtube-nocookie.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||xbox.ipv6.microsoft.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||xboxexperiencesprod.experimentation.xboxlive.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||xflight.xboxlive.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||xkms.xboxlive.com^$important
+# Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+@@||xsts.auth.xboxlive.com^$important
+# Owned by Google. YouTube launched a new feature on the site recently that it called Privacy-Enhanced Mode. This domain is used to embed the videos on third-party sites with less trackers. - qjz9zk
+@@||youtube-nocookie.com^$important
+# YouTube URL shortner. Used while sharing videos, playlists, channels etc. - qjz9zk
+@@||youtu.be^$important
+# Owned by Google. Used to deliver static files over the internet. - qjz9zk
+@@||yt3.ggpht.com^$important
+# Used to deliver videos over the internet. - qjz9zk
+@@||vidtech.cbsinteractive.com^$important
+# Used by YourPhone app by Microsoft on Windows 10 for mirroring Android notifications - qjz9zk
+@@||continuum.dds.microsoft.com^$important
+# Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk
+@@||connectivitycheck.gstatic.com^$important
+# Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk
+@@||connectivitycheck.android.com^$important
+# Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk
+@@||www.msftconnecttest.com^$important
+@@||ad.admitad.com^$important
+@@||reminders-pa.googleapis.com^$important
+@@||firestore.googleapis.com^$important
+@@||gstaticadssl.l.google.com^$important
+@@||googleapis.l.google.com^$important
+@@||dl.google.com^$important
+@@||redirector.gvt1.com^$important
+@@||i.s-microsoft.com^$important
+@@||sls.update.microsoft.com.akadns.net^$important
+@@||tlu.dl.delivery.mp.microsoft.com^$important
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
+@@||v10.events.data.microsoft.com^$important
+@@||v20.events.data.microsoft.com^$important
+@@||client-s.gateway.messenger.live.com^$important
+@@||activity.windows.com^$important
+@@||www.xboxlive.com^$important
+@@||v10.vortex-win.data.microsoft.com^$important
+@@||settings-win.data.microsoft.com^$important
+@@||m.hotmail.com^$important
+@@||s1.symcb.com^$important
+@@||s2.symcb.com^$important
+@@||s3.symcb.com^$important
+@@||s4.symcb.com^$important
+@@||s5.symcb.com^$important
+@@||itunes.apple.com^$important
+@@||s.mzstatic.com^$important
+@@||ipv6.msftncsi.com^$important
+@@||captive.apple.com^$important
+@@||gsp1.apple.com^$important
+@@||www.apple.com^$important
+@@||www.appleiphonecell.com^$important
+@@||apresolve.spotify.com^$important
+@@||api-tv.spotify.com^$important
+@@||plex.tv^$important
+@@||tvthemes.plexapp.com.cdn.cloudflare.net^$important
+@@||106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services^$important
+@@||metrics.plex.tv^$important
+@@||www.plex.tv^$important
+@@||app.plex.tv^$important
+@@||upload.facebook.com^$important
+@@||creative.ak.fbcdn.net^$important
+@@||external-lhr0-1.xx.fbcdn.net^$important
+@@||external-lhr1-1.xx.fbcdn.net^$important
+@@||external-lhr10-1.xx.fbcdn.net^$important
+@@||external-lhr2-1.xx.fbcdn.net^$important
+@@||external-lhr3-1.xx.fbcdn.net^$important
+@@||external-lhr4-1.xx.fbcdn.net^$important
+@@||external-lhr5-1.xx.fbcdn.net^$important
+@@||external-lhr6-1.xx.fbcdn.net^$important
+@@||external-lhr7-1.xx.fbcdn.net^$important
+@@||external-lhr8-1.xx.fbcdn.net^$important
+@@||external-lhr9-1.xx.fbcdn.net^$important
+@@||fbcdn-creative-a.akamaihd.net^$important
+@@||scontent-lhr3-1.xx.fbcdn.net^$important
+@@||scontent.xx.fbcdn.net^$important
+@@||scontent.fgdl5-1.fna.fbcdn.net^$important
+@@||graph.facebook.com^$important
+@@||b-graph.facebook.com^$important
+@@||connect.facebook.com^$important
+@@||cdn.fbsbx.com^$important
+@@||api.facebook.com^$important
+@@||edge-mqtt.facebook.com^$important
+@@||mqtt.c10r.facebook.com^$important
+@@||portal.fb.com^$important
+@@||star.c10r.facebook.com^$important
+@@||star-mini.c10r.facebook.com^$important
+@@||b-api.facebook.com^$important
+@@||fb.me^$important
+@@||bigzipfiles.facebook.com^$important
+@@||l.facebook.com^$important
+@@||chtbl.com^$important
+@@||v.w-x.co^$important
+@@||prod.telemetry.ros.rockstargames.com^$important
+@@||tracking.epicgames.com^$important
+@@||tracking-protection.cdn.mozilla.net^$important
+@@||telemetry-console.api.playstation.com^$important
