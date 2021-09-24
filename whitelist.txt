@@ -781,3 +781,4 @@
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||telemetry-console.api.playstation.com^$important
 @@||avatars.mds.yandex.net^$important
+@@||xapi.ozon.ru^$important
