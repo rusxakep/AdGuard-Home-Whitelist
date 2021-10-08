@@ -782,3 +782,5 @@
 @@||telemetry-console.api.playstation.com^$important
 @@||avatars.mds.yandex.net^$important
 @@||xapi.ozon.ru^$important
+# Yandex.Music
+@@||storage.mds.yandex.net^$important
