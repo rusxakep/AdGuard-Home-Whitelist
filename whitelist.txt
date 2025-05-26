@@ -784,3 +784,4 @@
 @@||xapi.ozon.ru^$important
 # Yandex.Music
 @@||storage.mds.yandex.net^$important
+@@||randombeast.win^$important
